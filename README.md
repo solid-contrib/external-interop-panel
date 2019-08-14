@@ -30,4 +30,4 @@ You can find detailed conversations discussing the Solid's connection to other i
 | [AtomGraph](https://atomgraph.com) | ------------- | ------------- | ------------- |
 | [Yoti](https://www.yoti.com) | ------------- | ------------- | ------------- |
 | [Free Flow Nation](https://www.freeflownation.org/our-digital-self.html) | ------------- | ------------- | ------------- |
-
+| [Data Transfer Project](https://datatransferproject.dev) | ------------- | ------------- | ------------- |
