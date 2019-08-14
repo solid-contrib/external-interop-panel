@@ -1,6 +1,8 @@
 # Solid External Interop and Outreach Panel
 
-Here is a record of initiatives that have been compared to Solid with a place to collect notes on similarities, differences, and possible areas to complement. 
+If you are interested in working on how Solid relates to other initiatives you might be interested in [joining the Solid External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md). 
+
+Below is a record of initiatives that have been compared to Solid with a place to collect notes on similarities, differences, and possible areas to complement. 
 
 Add to this list by submitting a pull request. 
 
