@@ -8,6 +8,8 @@ Add to this list by submitting a pull request.
 
 You can find detailed conversations discussing the Solid's connection to other initiatives on the [dedicated forum category](https://forum.solidproject.org/c/connection-to-other-initiatives). 
 
+If you're wondering if Solid uses blockchain, check out the [FAQs](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md#does-solid-use-blockchain). 
+
 | Initiative  | Similarities | Differences | Potential to Complement |
 | ------------- | ------------- | ------------- | ------------- |
 | [IPFS](https://ipfs.io/) | ------------- | ------------- | ------------- |
