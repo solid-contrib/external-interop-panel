@@ -38,4 +38,4 @@ If you're wondering if Solid uses blockchain, check out the [FAQs](https://githu
 | [Free Flow Nation](https://www.freeflownation.org/our-digital-self.html) | ------------- | ------------- | ------------- |
 | [Data Transfer Project](https://datatransferproject.dev) | ------------- | ------------- | ------------- |
 | [Elastos](https://www.elastos.org) | ------------- | ------------- | ------------- |
-
+| [Beaker Browser](https://beakerbrowser.com) | ------------- | ------------- | ------------- |
