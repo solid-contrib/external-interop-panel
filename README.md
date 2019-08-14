@@ -1,6 +1,8 @@
 # Solid External Interop and Outreach Panel
 
-There are multiple conversations asking about how particular initatives compare to Solid. Here is a record of initiatives with notes on similarities, differences, and possible areas to complement. 
+Here is a record of initiatives that have been compared to Solid with a place to collect notes on similarities, differences, and possible areas to complement. 
+
+Add to this list by submitting a pull request. 
 
 You can find detailed conversations discussing the Solid's connection to other initiatives on the [dedicated forum category](https://forum.solidproject.org/c/connection-to-other-initiatives). 
 
