@@ -28,7 +28,7 @@ If you're wondering if Solid uses blockchain, check out the [FAQs](https://githu
 | [Next Cloud](https://nextcloud.com) | ------------- | ------------- | ------------- |
 | [Freedom Box](https://www.freedomboxfoundation.org) | ------------- | ------------- | ------------- |
 | [Digi Me](http://digi.me/) | ------------- | ------------- | ------------- |
-| [Blockstack](https://blockstack.org/) | ------------- | ------------- | ------------- |
+| [Blockstack](https://blockstack.org/) with [example app](https://www.sigle.io) | ------------- | ------------- | ------------- |
 | [ID2020](https://id2020.org/alliance) | ------------- | ------------- | ------------- |
 | [Data Transfer Project](https://datatransferproject.dev/) | ------------- | ------------- | ------------- |
 | [Upspin](https://github.com/upspin/upspin) | ------------- | ------------- | ------------- |
