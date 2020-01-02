@@ -39,3 +39,5 @@ If you're wondering if Solid uses blockchain, check out the [FAQs](https://githu
 | [Data Transfer Project](https://datatransferproject.dev) | ------------- | ------------- | ------------- |
 | [Elastos](https://www.elastos.org) | ------------- | ------------- | ------------- |
 | [Beaker Browser](https://beakerbrowser.com) | ------------- | ------------- | ------------- |
+| [polypoly](https://polypoly.eu/) | linked data, distributed | storage on personal devices instead of servers, computation on device | complements Solid as storage for truly private data |
+| [Darcy](https://darcy.is/) | ------------- | ------------- | social media using Solid as data infrastructure |
